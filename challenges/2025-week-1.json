@@ -1,0 +1,18 @@
+{
+  "challenge_id": "physics-2025-32",
+  "title": "Physics Exploration Week",
+  "description": "Read a chapter of any physics book and write about what you learned, what questions it raised, and how it connects to your daily life.",
+  "week_number": 1,
+  "year": 2025,
+  "published_date": "2025-08-06T00:00:00Z",
+  "difficulty_level": "medium",
+  "category": "Science",
+  "instructions": "Choose any physics concept that interests you. Read about it from any reliable source (textbook, article, documentary). Write 500+ words about your insights.",
+  "tags": ["physics", "science", "learning"],
+  "estimated_time": "2-3 hours",
+  "resources": [
+    "Any physics textbook",
+    "Khan Academy Physics",
+    "Physics documentaries"
+  ]
+}
