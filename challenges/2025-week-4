@@ -1,0 +1,18 @@
+{
+  "challenge_id": "creative-2025-34",
+  "title": "TTRPG Time Capsule System",
+  "description": "Design a TTRPG that can only be played once every real-world year..",
+  "week_number": 4,
+  "year": 2025,
+  "published_date": "2025-08-19T00:00:00Z",
+  "difficulty_level": "medium",
+  "category": "Creative",
+  "instructions": "Test",
+  "tags": ["history", "history", "learning"],
+  "estimated_time": "2-3 hours",
+  "resources": [
+    "Any physics textbook",
+    "Khan Academy Physics",
+    "Physics documentaries"
+  ]
+}
